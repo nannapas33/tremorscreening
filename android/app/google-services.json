@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57800859389",
+    "project_id": "tremorscreening",
+    "storage_bucket": "tremorscreening.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57800859389:android:6625686953f4bc3f2aa894",
+        "android_client_info": {
+          "package_name": "com.hana.tremorscreeningv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57800859389-bi505mhqtoihtjav7472n2usv6d4a5uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hana.tremorscreeningv2",
+            "certificate_hash": "789227e883f92e1861a2f036cf95975250b59ce9"
+          }
+        },
+        {
+          "client_id": "57800859389-air2q33vt3i0am9nbv9951i3bd6vf1df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYqZduLwzwHgNPzwWEgmDukroj2VZOG_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57800859389-air2q33vt3i0am9nbv9951i3bd6vf1df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
